@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "Nikita",
+        "year": 2000,
+        "budget" : "USA 140m",
+        "cast" : "Micheal, Fauzia,Hannah" 
+    },
+     {
+       "title" : "Money Hiest",
+        "year": 1998,
+        "budget" : "GHANA 200m",
+        "cast" : "Moses, Faruk,Zainab" 
+    },
+    {
+        "title" : "Shree",
+        "year": 1924,
+        "budget" : "Nigeria 1405m",
+        "cast" : "Mariam, Fati,Zainab" 
+    }
+]
